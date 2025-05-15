@@ -1,0 +1,62 @@
+[
+  {
+    "name": "直尺",
+    "image": "./weapon/直尺.jpg",
+    "category": "步枪",
+    "damage": 45,
+    "bullets": 38,
+    "clip": 4,
+    "speed": 2300,
+    "delay": 55,
+    "range": 1330,
+    "recoil": 32
+  },
+  {
+    "name": "CQ自动步枪",
+    "image": "./weapon/CQ自动步枪.jpg",
+    "category": "步枪",
+    "damage": 45,
+    "bullets": 30,
+    "clip": 4,
+    "speed": 2250,
+    "delay": 75,
+    "range": 1350,
+    "recoil": 29
+  },
+  {
+    "name": "A.69式40火箭筒",
+    "image": "./weapon/A.69式40火箭筒.jpg",
+    "category": "反坦克炮",
+    "damage": 1210,
+    "bullets": 3,
+    "clip": 1,
+    "speed": 1690,
+    "delay": 4500,
+    "range": 1800,
+    "recoil": 10
+  },
+  {
+    "name": "A.Beneli M4（爱恋）",
+    "image": "./weapon/A.Beneli M4（爱恋）.jpg",
+    "category": "散弹枪",
+    "damage": 136,
+    "bullets": 6,
+    "clip": 3,
+    "speed": 2010,
+    "delay": 440,
+    "range": 650,
+    "recoil": 32
+  },
+  {
+    "name": "A.M82A3",
+    "image": "./weapon/A.M82A3.jpg",
+    "category": "狙击枪",
+    "damage": 142,
+    "bullets": 5,
+    "clip": 4,
+    "speed": 12000,
+    "delay": 4000,
+    "range": 3020,
+    "recoil": 15
+  }
+]

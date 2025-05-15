@@ -1,7 +1,7 @@
 [
   {
     "name": "直尺",
-    "image": "./weapon/直尺.jpg",
+    "image": "直尺.jpg",
     "category": "步枪",
     "damage": 45,
     "bullets": 38,
@@ -13,7 +13,7 @@
   },
   {
     "name": "CQ自动步枪",
-    "image": "./weapon/CQ自动步枪.jpg",
+    "image": "CQ自动步枪.jpg",
     "category": "步枪",
     "damage": 45,
     "bullets": 30,
@@ -25,7 +25,7 @@
   },
   {
     "name": "A.69式40火箭筒",
-    "image": "./weapon/A.69式40火箭筒.jpg",
+    "image": "A.69式40火箭筒.jpg",
     "category": "反坦克炮",
     "damage": 1210,
     "bullets": 3,
@@ -37,7 +37,7 @@
   },
   {
     "name": "A.Beneli M4（爱恋）",
-    "image": "./weapon/A.Beneli M4（爱恋）.jpg",
+    "image": "A.Beneli M4（爱恋）.jpg",
     "category": "散弹枪",
     "damage": 136,
     "bullets": 6,
@@ -49,7 +49,7 @@
   },
   {
     "name": "A.M82A3",
-    "image": "./weapon/A.M82A3.jpg",
+    "image": "A.M82A3.jpg",
     "category": "狙击枪",
     "damage": 142,
     "bullets": 5,
